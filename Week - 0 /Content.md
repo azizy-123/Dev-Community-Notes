@@ -1,4 +1,4 @@
-# C# Language Basics and SOLID Principles
+# C# Language Basics , OOP , SOLID Principles
 
 ## How Compiling Works in C#
 
@@ -17,7 +17,7 @@
 ### Statements
 ### Namespaces
 
-## Creating Types in C#
+## OOP C#
 
 ### Classes
 ### Inheritance
